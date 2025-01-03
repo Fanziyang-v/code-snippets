@@ -1,3 +1,5 @@
+"""This code snippet shows an example of counting the number of parameters in a model."""
+
 from torch import nn
 from torchvision import models
 
